@@ -113,7 +113,7 @@ li{
     z-index: 999999;
     position: fixed;
     right: 0;
-    top: 100px;
+    top: 75px;
     background: var(--transparent-color-01);
     backdrop-filter: blur(20px);
     width: 50px;
@@ -1093,6 +1093,7 @@ footer a{
         height: 100vh;
         top: 0;
         left: 0;
+        padding-top: 30px;
         display: flex;
         justify-content: center;
         align-items: center;
