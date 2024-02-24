@@ -1297,9 +1297,8 @@ footer a{
      /* Services Section */
     .service-modal-body{
         max-width: 400px;
-        margin: 10px;
+        margin: 20px;
         padding: 40px;
-/*         padding-bottom: 40px; */
         font-size: 0.9rem;
     }
 
