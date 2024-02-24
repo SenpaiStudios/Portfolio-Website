@@ -1294,6 +1294,14 @@ footer a{
         margin-bottom: 80px;
     }
 
+     /* Services Section */
+    .service-modal-body{
+        max-width: 400px;
+        margin: 10px;
+        padding: 20px;
+        font-size: 0.9rem;
+    }
+
     /* Get In Touch Section */
     .get-in-touch .contact-card{
         display: grid;
