@@ -352,7 +352,8 @@ header.sticky .nav-bar{
     position: absolute;
     width: 70px;
     height: 5px;
-    right: 0;
+    left: 50%;
+    margin-left: -35px;
     bottom: 0;
     background: var(--second-color);
 }
